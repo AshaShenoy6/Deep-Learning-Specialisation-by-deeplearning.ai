@@ -2,4 +2,4 @@
 
 5 courses
 
-Course 3-Structuring Machine LEarning project has no assignments
+Course 3-Structuring Machine LEarning project has no programming assignments
